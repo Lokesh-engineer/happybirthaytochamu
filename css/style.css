@@ -1,0 +1,329 @@
+body{padding:0 auto; margin:0 auto;font-family: 'Rochester', cursive;}
+
+.maindiv {
+    float: left;
+    width: 100%;
+    background-image: url('../images/lovebg4.jpg');
+	padding-bottom:10em;
+}
+
+.header {
+    float: left;
+    width: 100%;
+    background-image: url('../images/cc29.jpg');
+    color: #fff;
+    font-family: 'Rochester', cursive;
+}
+.headersec1 {
+    float: left;
+    width: 50%;
+    text-align: left;
+    font-size: 72px;
+    padding-top: 175px;
+    background-repeat: no-repeat;
+}
+.firstmeet2 h2 {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 54px;
+    text-align: center;
+    text-decoration: underline;
+        text-decoration-color: currentcolor;
+    text-decoration-color: currentcolor;
+    text-decoration-color: #fff;
+    color: #fff;
+}
+.headersec2 {
+    float: left;
+    width: 50%;
+    text-align: right;
+    font-size: 19px;
+    padding-top: 389px;
+    background-repeat: no-repeat;
+    font-family: 'Lexend Tera', sans-serif;
+    color: darkgray;
+}
+.chat {
+    float: left;
+    width: 100%;
+	text-align;center;
+	background-image: url('../images/lovebg.jpg');
+}
+.chat1 {
+    float: left;
+    width: 50%;
+    font-size: 179px;
+}
+.firstmeet {
+    float: left;
+    width: 100%;
+    padding-top: 10em;
+}	
+
+.firstmeet1 {
+    float: left;
+    width: 40%;
+    padding-left: 20em;
+}
+.firstmeet2 {
+    float: left;
+    width: 30%;
+    padding-top: 28em;
+}
+h2 {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 54px;
+    text-align: center;
+    text-decoration: underline;
+        text-decoration-color: currentcolor;
+    text-decoration-color: red;
+}
+.meet {
+    font-family: special elite, cursive;
+    font-size: 42px;
+    text-align: center;
+    color: #F766AF;
+}
+
+.firstmeetimages {
+    float: left;
+    width: 100%;
+	}
+.firstmeetimages1 {
+    float: left;
+    width: 30%;
+}
+.firstmeetimages2 {
+    float: left;
+    width: 33%;
+}
+.firstmeetimages3 {
+    float: left;
+    width: 37%;
+    padding-top: 10em;
+}
+.firstmeetimages4 {
+    float: left;
+    width: 62%;
+}
+.firstmeetimages5 {
+    float: left;
+    width: 20%;
+}
+.firstmeetimages6 {
+    float: left;
+    width: 51%;
+}
+.firstmeetimages7 {
+    float: left;
+    width: 20%;
+}
+
+.maindiv2 {
+	 float: left;
+    width: 100%;
+	background-image: url('../images/lovebg3.jpg');
+	margin-top:15em;
+
+}
+.secondmeet {
+    float: left;
+    width: 100%;
+	
+}
+.secondmeet1 {
+    float: left;
+    width: 40%;
+    padding-left: 20em;
+}
+.secondmeet2 {
+    float: left;
+    width: 40%;
+    padding-top: 28em;
+}
+.secondmeetimages {
+    float: left;
+    width: 100%;
+	}
+.secondmeetimages1 {
+    float: left;
+    width: 60%;
+}
+.secondmeetimages2 {
+    float: left;
+    width: 6%;
+}
+.secondmeetimages3 {
+    float: left;
+    width: 40%;
+    padding-top: 10em;
+}
+.secondmeetimages4 {
+    float: left;
+    width: 46%;
+}
+.secondmeetimages5 {
+    float: left;
+    width: 15%;
+}
+.secondmeetimages6 {
+    float: left;
+    width: 51%;
+}
+.maindiv3 {
+	 float: left;
+    width: 100%;
+	background-image: url('../images/lovebg6.jpg');
+	margin-top:15em;
+
+}
+.thirdmeet {
+    float: left;
+    width: 100%;
+	
+}
+.thirdmeet1 {
+    float: left;
+    width: 40%;
+    padding-left: 20em;
+}
+.thirdmeet2 {
+    float: left;
+    width: 40%;
+    padding-top: 20em;
+}
+.thirdmeet2 h2 {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 54px;
+    text-align: center;
+    text-decoration: underline;
+        text-decoration-color: currentcolor;
+    text-decoration-color: currentcolor;
+    text-decoration-color: #fff;
+    color: red;
+}
+
+.maindiv4 {
+	 float: left;
+    width: 100%;
+	background-image: url('../images/lovebg2.jpg');
+	margin-top:15em;
+
+}
+.fourthmeet {
+    float: left;
+    width: 100%;
+	
+}
+.fourthmeet1 {
+    float: left;
+    width: 40%;
+    padding-left: 20em;
+}
+.fourthmeet2 {
+    float: left;
+    width: 40%;
+    padding-top: 28em;
+}
+.fourthmeetimages {
+    float: left;
+    width: 100%;
+	}
+.fourthmeetimages1 {
+    float: left;
+    width: 38%;
+}
+.fourthmeetimages2 {
+    float: left;
+    width: 34%;
+}
+.fourthmeetimages3 {
+    float: left;
+    width: 41%;
+    padding-top: 10em;
+}
+.fourthmeetimages4 {
+    float: left;
+    width: 46%;
+}
+.fourthmeetimages5 {
+    float: left;
+    width: 15%;
+}
+.fourthmeetimages6 {
+    float: right;
+    width: 51%;
+}
+
+.maindiv5 {
+	 float: left;
+    width: 100%;
+	background-image: url('../images/lovebg7.jpg');
+	margin-top:15em;
+
+}
+.fifthmeet {
+    float: left;
+    width: 100%;
+	
+}
+.fifthmeet1 {
+    float: left;
+    width: 40%;
+    padding-left: 20em;
+}
+.fifthmeet2 {
+    float: left;
+    width: 40%;
+    padding-top: 28em;
+}
+.fifthmeetimages {
+    float: left;
+    width: 100%;
+	}
+.fifthmeetimages1 {
+    float: left;
+    width: 61%;
+}
+.fifthmeetimages2 {
+    float: left;
+    width: 34%;
+}
+.end {
+	 float: left;
+    width: 100%;
+	padding-top:20em;
+	
+}
+.end {
+	float:left;
+	width:100%;
+	padding-top:5em;
+	
+}
+.end1 {
+	 float: left;
+    width: 100%;
+	background-image: url('../images/end.jpg');
+	text-align:center;
+    font-size: 158px;
+	
+	
+}
+.end1 p{
+	padding-top:3em;
+}
+
+.end2 {
+	 float: right;
+    width: 100%;
+		background-image: url('../images/end2.jpg');
+		text-align:center;
+		font-size: 158px;
+}
+.end2 p {
+    padding-top: 2em;
+    color: #fff;
+}
+
+
+
